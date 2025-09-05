@@ -66,14 +66,15 @@
 - Continue just the same as you would for Base Game
 
 ## ⬆️ Importers
-[Unreal Engine (Coming Soon)](https://github.com/o-Astral-o)
+[Unreal Engine](https://github.com/o-Astral-o/C2UE/releases)  
+Blender (Coming Soon)
 
 ## 🔍 Tutorials
-[Unreal Engine (Coming Soon)](https://www.youtube.com/@Astral_CG)
+Unreal Engine (Coming Soon)  
+Blender (Coming Soon)
 
 ## 🛠️ Support
-[AGR Tech Support Discord](http://discord.c2mproject.com)
-
+[AGR Tech Support Discord](http://discord.c2mproject.com)  
 [C2Mv3 GitHub](https://github.com/o-Astral-o/C2Mv3/releases)
 
 ## ❓ FAQ
