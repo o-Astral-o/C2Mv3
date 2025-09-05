@@ -35,7 +35,7 @@
 | Call of Duty: Black Ops 3                           | Base Game, Cordycep            |
 | Call of Duty: Infinite Warfare                      | Base Game, Cordycep            |
 | Call of Duty: Modern Warfare Remastered             | Base Game, Cordycep            |
-| Call of Duty: World War II                          | Base Game                      |
+| Call of Duty: World War II                          | Base Game, Cordycep            |
 | Call of Duty: Black Ops 4                           | Base Game, Shield/Project BO4  |
 | Call of Duty: Modern Warfare 2019                   | Cordycep                       |
 | Call of Duty: Modern Warfare 2 Campaign Remastered  | Base Game, Cordycep            |
