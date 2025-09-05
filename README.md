@@ -1,20 +1,20 @@
-# <img src="C2M/icon.ico" width="32" height="32" /> C2M - Call of Duty Map Exporter
+# <img src="images/c2m.ico" width="32" height="32" /> C2M - Call of Duty Map Exporter
 
 <table style="border-collapse:collapse;border:0;margin:0;padding:0;">
   <tr>
     <td style="padding:2px 16px 2px 0;white-space:nowrap;"><b>Originally Developed By:</b></td>
     <td style="padding:2px 12px 2px 0;">Sheilan</td>
     <td style="padding:2px 0;">
-      <a href="https://github.com/sheilan102"><img src="/C2UI/icons/github.ico" width="24" height="24"></a>
-      <a href="http://paypal.me/ksheilan"><img src="/C2UI/icons/paypal.ico" width="24" height="24"></a>
+      <a href="https://github.com/sheilan102"><img src="/images/github.ico" width="24" height="24"></a>
+      <a href="http://paypal.me/ksheilan"><img src="/images/paypal.ico" width="24" height="24"></a>
     </td>
   </tr>
   <tr>
     <td style="padding:2px 16px 2px 0;white-space:nowrap;"><b>Developed For Version 3 By:</b></td>
     <td style="padding:2px 12px 2px 0;">Astral</td>
     <td style="padding:2px 0;">
-      <a href="https://github.com/o-Astral-o"><img src="/C2UI/icons/github.ico" width="24" height="24"></a>
-      <a href="https://paypal.me/astralmodz"><img src="/C2UI/icons/paypal.ico" width="24" height="24"></a>
+      <a href="https://github.com/o-Astral-o"><img src="/images/github.ico" width="24" height="24"></a>
+      <a href="https://paypal.me/astralmodz"><img src="/images/paypal.ico" width="24" height="24"></a>
     </td>
   </tr>
 </table>
