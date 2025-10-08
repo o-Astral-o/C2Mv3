@@ -1,3 +1,5 @@
+[![Releases](https://img.shields.io/github/downloads/o-Astral-o/C2Mv3/total.svg)](https://github.com/o-Astral-o/C2Mv3/releases)
+
 # <img src="images/c2m.ico" width="32" height="32" /> C2M - Call of Duty Map Exporter
 
 <table style="border-collapse:collapse;border:0;margin:0;padding:0;">
