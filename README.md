@@ -46,6 +46,7 @@
 | Call of Duty: Modern Warfare II                     | Cordycep                       |
 | Call of Duty: Modern Warfare III                    | Cordycep                       |
 | Call of Duty: Black Ops 6                           | Cordycep                       |
+| Call of Duty: Black Ops 7                           | Cordycep                       |
 
 ## ⬇️ Export Formats
 
