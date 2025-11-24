@@ -30,6 +30,7 @@
 | Call of Duty: Modern Warfare 2                      | Base Game, IW4x                |
 | Call of Duty: Black Ops                             | Base Game, Plutonium           |
 | Call of Duty: Modern Warfare 3                      | Base Game, Plutonium           |
+| Call of Duty: Future Warfare                        | [Xenia]([https://github.com/o-Astral-o/C2UE/releases](https://github.com/echo000/xenia-canary/releases/tag/Saluki))            |
 | Call of Duty: Black Ops 2                           | Base Game, Plutonium, Redacted |
 | Call of Duty: Ghosts                                | Base Game, Cordycep, IW6x      |
 | Call of Duty: Advanced Warfare                      | Base Game, Cordycep            |
